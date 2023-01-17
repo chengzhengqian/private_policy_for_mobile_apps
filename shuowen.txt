@@ -1,0 +1,3 @@
+Private Policy for Shuowen App
+
+Shuowen App does not collect any data from the User. All User's information is stored in the local machine.
